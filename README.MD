@@ -12,8 +12,10 @@ A small forntend project made by using HTML,vanilla CSS and JavaScript.
 Steps to install and set up the project locally:
 
 1.use font Awesome and google font 
+
 ```bash
 https://fontawesome.com/search?q=compass&o=r&ic=free
+
 ```bash
 https://fonts.google.com/?icon.size=24&icon.color=%23e8eaed
 
